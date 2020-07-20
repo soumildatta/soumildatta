@@ -1,5 +1,5 @@
 ### Hello there 👋 I am [Soumil](https://www.soumildatta.com/)
-I am an undergraduate CS student and a research assistant at the [High Fidelity Virtual Environments Lab](https://john.cs.olemiss.edu/~jones/doku.php?id=start) at the University of Mississippi. I am curious about anything related to tech and music. I'm usually learning new things related to programming or messing aronud with my piano or guitar in my free time.
+I am an undergraduate CS student and a research assistant at the [High Fidelity Virtual Environments Lab](https://john.cs.olemiss.edu/~jones/doku.php?id=start) at the University of Mississippi. I am curious about anything related to tech and music. I'm usually learning new things related to programming or messing around with my piano or guitar in my free time.
 
 🌱 I’m currently learning iOS development and ReactJS   
 🔭 I’m currently working on some cool things with AR technologies for research   
