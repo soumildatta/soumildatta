@@ -1,8 +1,8 @@
 ### Hello there 👋 I am [Soumil](https://www.soumildatta.com/)
-I am an undergraduate CS student at the University of Mississippi. I am curious about anything related to tech and music. I'm usually learning new things related to programming or messing aronud with my piano or guitar in my free time.
+I am an undergraduate CS student and a research assistant at the [High Fidelity Virtual Environments Lab](https://john.cs.olemiss.edu/~jones/doku.php?id=start) at the University of Mississippi. I am curious about anything related to tech and music. I'm usually learning new things related to programming or messing aronud with my piano or guitar in my free time.
 
 🌱 I’m currently learning iOS development and ReactJS   
-🔭 I’m currently working on some cool things with AR technologies    
+🔭 I’m currently working on some cool things with AR technologies for research   
 ⚡ Fun fact: I used to be able to eat a whole large pizza when I was little
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/soumildatta)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/soumildatta/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/soumildatta)  
