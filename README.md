@@ -3,7 +3,7 @@ I am an undergraduate CS student and a research assistant at the [High Fidelity 
 
 🌱 I’m currently learning iOS development and ReactJS   
 🔭 I’m currently working on some cool things with AR technologies for research   
-⚡ Fun fact: I used to be able to eat a whole large pizza when I was little
+⚡ Fun fact: I love building IKEA furniture
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/soumildatta)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/soumildatta/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/soumildatta)  
 
