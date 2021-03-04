@@ -1,9 +1,9 @@
 ### Hello there 👋 I am [Soumil](https://www.soumildatta.com/)
 I am an undergraduate CS student and a research assistant at the [High Fidelity Virtual Environments Lab](https://john.cs.olemiss.edu/~jones/doku.php?id=start) at the University of Mississippi. I am curious about anything related to tech and music. I'm usually learning new things related to programming or messing around with my piano or guitar in my free time.
 
-🌱 I’m currently learning more about operating systems and high performance computing  
-🔭 I’m working on building a few iOS apps and learning more about swift in the process  
-🥅 One of my goals for 2020 is to build an app and publish it on the app store/play store    
+🌱 I’m currently learning  about operating systems and high performance computing  
+🔭 Working on building a few iOS apps and learning more about Swift 
+🥅 One of my goals for 2021 is to build an app and publish it on the app store/play store    
 ⚡ Fun fact: I play the piano and guitar and love music!
 
 #### Contact me:
