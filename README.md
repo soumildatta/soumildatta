@@ -4,7 +4,7 @@ I am an undergraduate CS student and a research assistant at the [High Fidelity 
 🌱 I’m currently learning  about operating systems and high performance computing  
 🔭 Working on building a few iOS apps and learning more about Swift 
 🥅 One of my goals for 2021 is to build an app and publish it on the app store/play store    
-⚡ Fun fact: I play piano and guitar and do photography in my free time!
+⚡ Fun fact: I play piano and guitar, and do photography in my free time!
 
 #### Contact me:
 <!---[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]--->
