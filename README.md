@@ -12,6 +12,7 @@ I am an undergraduate CS student and a research assistant at the [High Fidelity 
 <!---[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]--->
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/soumildatta)
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/soumildatta/)
+[<img align="left" alt="codeSTACKr | Spotify" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/spotify.svg"/>](https://open.spotify.com/user/igmjtoh69apsl4fmc5isanek7?si=33684235e50f4e12)
 
 <!--![Github stats](https://github-readme-stats.vercel.app/api?username=soumildatta&show_icons=true)-->
 <!--
