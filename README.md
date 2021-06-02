@@ -1,8 +1,8 @@
 ### Hello there 👋 I am [Soumil](https://www.soumildatta.com/)
-I am an undergraduate CS student and a research assistant at the [High Fidelity Virtual Environments Lab](https://john.cs.olemiss.edu/~jones/doku.php?id=start) at the University of Mississippi. I am curious about anything related to tech, photography, and music. I'm usually learning new things related to programming, messing around taking pics, or playing my piano and guitar in my free time.
+I am an undergraduate CS student and a research assistant at the FCN Research Group and the High Fidelity Virtual Environments at the University of Mississippi. My research consists of data science and machine learning using python on large datasets and building and executing virtual environments to observe psychophysics. I'm usually learning new things related to programming, messing around taking pics, or playing my piano and guitar in my free time.
 
-🌱 I’m currently diving deeper into high performance computing   
-🔭 Working on building a mobile apps and learning more about Swift and Kotlin    
+🌱 I’m currently diving deeper into compiler construction and high performance computing   
+🔭 Working on building a mobile app and learning more about React Native
 🥅 One of my goals for 2021 is to build an app and publish it on the app store/play store    
 ⚡ Fun fact: I play piano and guitar, and do photography in my free time!
 
@@ -19,7 +19,7 @@ I am an undergraduate CS student and a research assistant at the [High Fidelity 
 **soumildatta/soumildatta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+[High Fidelity Virtual Environments Lab](https://john.cs.olemiss.edu/~jones/doku.php?id=start)
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
