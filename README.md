@@ -1,5 +1,5 @@
 ### Hello there 👋 I am [Soumil](https://www.soumildatta.com/)
-I am an undergraduate CS student and a research assistant at the HEROES Lab and the FCN Group at the University of Mississippi. At the HEROES Lab, I am researching heterogenous systems At the FCN Group, my research consists of data science and machine learning using python on large datasets and building. In the past, I researched at a different lab and executed virtual environments to observe psychophysics. I'm usually learning new things related to programming, messing around taking pics, or playing my piano and guitar in my free time.
+I am an undergraduate CS student and a research assistant at the HEROES Lab and the FCN Group at the University of Mississippi. At the FCN Group, my research consists of data science and machine learning using python on large datasets and building. In the past, I researched at a different lab and built virtual environments to observe psychophysics. I'm usually learning new things related to programming, messing around taking pics, or playing my piano and guitar in my free time.
 
 🌱 I’m currently diving deeper into heterogenous computing
 🔭 Working on building a mobile app and learning more about React Native
