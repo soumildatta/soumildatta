@@ -6,7 +6,7 @@ I am an undergraduate CS student and a research assistant at the [HEROES Lab](ht
 🥅 One of my goals for 2021 is to build an app and publish it on the app store/play store          
 ⚡ Fun fact: I play piano and guitar, and do photography in my free time!        
 
-#### Contact me:
+#### Get to know me:
 <!---[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]--->
 <!---[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]--->
 <!---[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]--->
