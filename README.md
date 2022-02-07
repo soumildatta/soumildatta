@@ -1,9 +1,9 @@
 ### Hello there 👋 I am [Soumil](https://www.soumildatta.com/)
-I am an undergraduate CS student and a research assistant at the [HEROES Lab](https://john.cs.olemiss.edu/heroes/) and the FCN Group at the University of Mississippi. At the HEROES Lab, I work with massively parallel algorithms and data structures on the GPU. At the FCN Group, my research consists of data science and machine learning using python on large datasets and building. In the past, I researched at a different lab and built virtual environments to observe psychophysics. I'm usually learning new things related to programming, messing around taking pics, or playing my piano and guitar in my free time.
+I am an undergraduate CS student and a research assistant at the [HEROES Lab](https://john.cs.olemiss.edu/heroes/) and the FCN Group at the University of Mississippi. At the HEROES Lab, I work with massively parallel algorithms and data structures on the GPU. At the FCN Group, my research consists of data science and machine learning using python on large datasets and building. In the past, I researched at a different lab and built virtual environments to research psychophysics. I'm usually learning new things related to programming, messing around taking pics, or playing my piano and guitar in my free time.
 
 🌱 I’m currently diving deeper into heterogenous computing    
-🔭 Working on building a mobile app and learning more about React Native      
-🥅 One of my goals for 2021 is to build an app and publish it on the app store/play store          
+🔭 Currently working on building a compiler from scratch for a programming language I created     
+🥅 One of my goals for 2022 is to apply my computer science knowledge over the years into a project       
 ⚡ Fun fact: I play piano and guitar, and do photography in my free time!        
 
 #### Get to know me:
