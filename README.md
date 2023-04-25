@@ -4,7 +4,7 @@ I am a masters CS student and a research assistant in the  [HEROES Lab](https://
 🌱 I’m currently focusing on Heterogenous Computing as well as Machine Learning      
 🔭 Currently working on exploring the use-cases of genetic algorithms     
 🥅 One of my goals for 2023 is to further my knowledge in deep learning      
-⚡ Fun fact: I play piano and guitar, and do photography in my free time!        
+⚡ Fun fact: I play piano and guitar, and love indulging in photography in my free time!        
 
 #### Get to know me:
 <!---[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]--->
