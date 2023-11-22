@@ -1,8 +1,8 @@
 ### Hello there 👋 I am <strong>Soumil</strong> <!--[Soumil](https://www.soumildatta.com/)-->
-I am a masters CS student and a research assistant in the  [HEROES Lab](https://john.cs.olemiss.edu/heroes/)  at the University of Mississippi working on designing concurrent datastructures for heterogenous systems. I received my BS in Computer Science with an emphasis on Data Science from the University of Mississippi. At the HEROES Lab, I work with concurrent datastructures on GPU architectures.
+I am a Masters CS student and a Research Assistant at the University of Mississippi working on designing parallel algorithms, as well as experimenting with adversarial attacks for different models. I received my BS in Computer Science with an emphasis on Data Science from the University of Mississippi. At the HEROES Lab, I work with concurrent datastructures on GPU architectures.
 
-🌱 I’m currently focusing on Genetic Algorithms, Heterogenous Computing, and Machine Learning      
-🔭 Currently working on a project using genetic algorithms     
+🌱 I’m currently exploring Adversarial ML, and Algorithm Optimizations  
+🔭 Currently working on my Master's thesis on Adversarial ML and XAI   
 🥅 One of my goals for 2023 is to further my knowledge in deep learning      
 ⚡ Fun fact: I play piano and guitar, and love indulging in photography in my free time!        
 
