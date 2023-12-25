@@ -1,5 +1,6 @@
 ### Hello there 👋 I am <strong>Soumil</strong> <!--[Soumil](https://www.soumildatta.com/)-->
-I am a Masters CS student and a Research Assistant at the University of Mississippi working on designing parallel algorithms, as well as experimenting with adversarial attacks for different models. I received my BS in Computer Science with an emphasis on Data Science from the University of Mississippi. At the [HEROES Lab](https://john.cs.olemiss.edu/heroes/), I worked with concurrent datastructures on GPU architectures. I am currently exploring adversarial and trustworthy ML for my master's thesis. 
+
+I am a Masters CS student at the University of Mississippi with research focuses on trustworthy and adversarial machine learning, efficient machine learning, and algorithm optimization. I was part of several reserach groups at Ole Miss, namely the [HEROES Lab](https://john.cs.olemiss.edu/heroes/), where I worked on developing concurrent algorithms and data structures for GPU architectures. My ultimate goals are to make the AI landscape safer, equitable, and more robust, especially in real-world settings with critical human-safety applications. 
 
 🌱 I’m currently exploring Adversarial ML, and Algorithm Optimizations  
 🔭 Currently working on my Master's thesis on Adversarial ML and XAI   
