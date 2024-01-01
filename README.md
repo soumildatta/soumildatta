@@ -4,7 +4,7 @@ I am a Masters CS student at the University of Mississippi with research focuses
 
 🌱 I’m currently exploring Adversarial ML, and Algorithm Optimizations  
 🔭 Currently working on my Master's thesis on Adversarial ML and XAI   
-🥅 One of my goals for 2023 is to further my knowledge in deep learning      
+🥅 One of my goals for 2024 is to develop universal methods and tools for XAI and Adversarial Learning   
 ⚡ Fun fact: I play piano and guitar, and love indulging in photography in my free time!        
 
 #### Get to know me:
