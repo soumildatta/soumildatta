@@ -6,6 +6,7 @@ I am a Masters CS student at the University of Mississippi with research focuses
 🔭 Currently working on my master's thesis on Adversarial ML and XAI   
 🥅 One of my goals for 2024 is to develop universal methods and tools for XAI and Adversarial Learning for emerging models   
 ⚡ Fun fact: I play piano and guitar, and love indulging in photography (both digital and film) in my free time!        
+📈 I am always open to collaborating on meaningful projects or ideas. Feel free to reach out to me through LinkedIn!
 
 #### Get to know me:
 <!---[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]--->
