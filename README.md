@@ -2,7 +2,7 @@
 
 I am a Masters CS student at the University of Mississippi with research focuses on trustworthy and adversarial machine learning, efficient machine learning, and algorithm optimization. I was part of several reserach groups at Ole Miss, namely the [HEROES Lab](https://john.cs.olemiss.edu/heroes/), where I worked on developing concurrent algorithms and data structures for GPU architectures. My ultimate goals are to make the AI landscape safer, equitable, efficient, and more robust. In addition to my research, I am keen on creating and contributing to user-friendly tools that help developers and researchers work more effectively and efficiently.
 <!---🌱 I’m currently exploring Adversarial ML, and Algorithm Optimizations--->
-🔭 Currently working on my master's thesis on Adversarial ML and XAI   
+🔭 Currently working on my master's thesis on Adversarial Attacks
 🥅 One of my goals for 2024 is to develop universal methods and tools for XAI and Adversarial Learning for emerging models   
 ⚡ Fun fact: I play piano and guitar, and love indulging in photography (both digital and film) in my free time!        
 📈 I am always open to collaborating on meaningful projects or ideas. Feel free to reach out to me through LinkedIn!
