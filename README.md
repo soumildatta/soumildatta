@@ -4,7 +4,7 @@ I am a PhD candidate with a research focus on the safety and trustworthiness of 
 
 I was part of several research groups at the University of Mississippi in the past, namely the Ole Miss Security and Privacy Lab, were I worked on developing an efficient and generalizable inference-time adversarial attack for object detection models, and the [HEROES Lab](https://john.cs.olemiss.edu/heroes/), where I worked on developing concurrent algorithms and data structures for GPU architectures. My ultimate goals are to make the AI landscape safer, equitable, efficient, and more robust. In addition to my research, I am keen on creating and contributing to user-friendly tools that help developers and researchers work more effectively and efficiently.
 <!---🌱 I’m currently exploring Adversarial ML, and Algorithm Optimizations--->
-🔭 Currently working on my master's thesis on Adversarial Attacks      
+🔭 Starting my next research by diving deeper into the behavior of LLMs   
 🥅 One of my goals for 2024 is to develop universal methods and tools for XAI and Adversarial Learning for emerging models   
 ⚡ Fun fact: I play piano and guitar, and love indulging in photography (both digital and film) in my free time!        
 📈 I am always open to collaborating on meaningful projects or ideas. Feel free to reach out to me through LinkedIn!
