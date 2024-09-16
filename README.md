@@ -16,7 +16,7 @@ I was part of several research groups at the University of Mississippi in the pa
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" />](https://www.linkedin.com/in/soumildatta/)
 [<img align="left" alt="codeSTACKr | Spotify" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/1/19/Spotify_logo_without_text.svg"/>](https://open.spotify.com/user/igmjtoh69apsl4fmc5isanek7?si=33684235e50f4e12)
 </br></br>
-![](https://komarev.com/ghpvc/?username=soumildatta&color=blue)
+<!--![](https://komarev.com/ghpvc/?username=soumildatta&color=blue)-->
 <!--![Github stats](https://github-readme-stats.vercel.app/api?username=soumildatta&show_icons=true)-->
 <!--
 **soumildatta/soumildatta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
