@@ -1,6 +1,6 @@
 ### Hello there 👋 I am <strong>Soumil</strong> <!--[Soumil](https://www.soumildatta.com/)-->
 
-I am a PhD student in the Security and Learning Threats (SaLT) Lab and the Aligned, Robust and Interactive Autonomy (ARIA) Lab @ the University of Utah with a research focus on the safety, privacy, and trustworthiness of ML/AI systems, especially in autonomous applications.
+I am a PhD student in the Interactive Autonomy (ARIA) Lab as well as the Security and Learning Threats (SaLT) Lab and the Aligned, Robust Lab @ the University of Utah with a research focus on the safety, privacy, and trustworthiness of ML/AI systems, especially in autonomous and robotic systems.
 
 <!--Previously part of the [Ole Miss Security and Privacy Lab](https://security.cs.olemiss.edu/), where I developed an efficient and generalizable suite of inference-time transferrable adversarial attacks for object detection models. I also conducted research at the [HEROES Lab](https://john.cs.olemiss.edu/heroes/), focusing on developing heterogeneous data structures and algorithms.-->
 
